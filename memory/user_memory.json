@@ -1,0 +1,15 @@
+{
+    "personal": {
+        "name": "Sandip",
+        "favorite_language": "{}"
+    },
+    "preferences": {},
+    "projects": {},
+    "other": {},
+    "requests": {
+        "joke": ""
+    },
+    "instructions": {
+        "action": "Show my memory"
+    }
+}
